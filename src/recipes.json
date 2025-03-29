@@ -1,0 +1,122 @@
+{
+  "recipes": [
+    {
+      "id": "31b1",
+      "name": "Egg fried rice",
+      "type": "Lunch-Dinner",
+      "ingredients": "3, Medium Eggs\n1, Red onion\n\n1/3 cup, Raw Brown Rice\n6 tsps, Sunflower Oil\n3 small spoons, Whole Jeeru\n3 small spoons, Rai\n2 cubes, garlic ginger paste\nChilli powder to taste\n1/2 small spoon, Haldi\n1.5 small spoons, Dhana Jeeru\n1 small spoon, Garam Masala\nLight soy sauce to taste\nSesame seeds to taste\n\n# 1/2 Red / Green pepper\n# 4 Spring Onions",
+      "method": "Wash and cook the brown rice.\nWhile the rice is cooking, roast the whole jeeru on the pan and set aside.\nAdd 5 tsps of oil to the pan.\nOnce warm, add diced onions and allow them to sauté.\nAdd rai and roasted jeeru.\nWhen the rai starts to pop, add the garlic ginger paste.\nOnce slightly brown, push this to the side of the pan and add 1 tsp of oil to the empty side.\nOnce warm, add all the spices and allow them to fry slightly.\nMix contents of the pan together.\nWhisk the eggs and add, allow them to scramble.\nSplit the eggs into small chunks.\n(Optional) Add the pepper and spring onions and allow to soften slightly.\nAdd the rice with light soy sauce to taste.\nGarnish with sesame seeds to taste.\n\n",
+      "difficulty": "2",
+      "vegetarian": true,
+      "madeBefore": true,
+      "ingredientNumber": 2
+    },
+    {
+      "id": "b179",
+      "name": "Crispy Tofu",
+      "type": "Lunch-Dinner",
+      "ingredients": "Super firm tofu\nSoy sauce to taste\nChilli sauce\nAamli sauce\nPaprika\nCornstarch\nSesame oil",
+      "method": "Press tofu with a paper towel above and below to get the water out\nCut tofu into chunks\nAdd soy sauce, chilli sauce, aamli sauce and paprika to a large bowl and stir\nAdd tofu and mix\nMarinate for at least 1 hour\nAdd to another bowl 2.5 tbsps soy sauce, 2.5 tbsps cornstarch and 2 tbsps sesame oil and mix\nCoat the tofu in the second mix\nAir fry for 10 minutes at 200°C, turning halfway through",
+      "difficulty": "2",
+      "vegetarian": true,
+      "madeBefore": true,
+      "ingredientNumber": 7
+    },
+    {
+      "id": "a269",
+      "name": "Cheese Toastie",
+      "type": "Lunch-Dinner",
+      "ingredients": "4, Slices of Bread\nCheddar cheese\nBlack pepper\nHot sauce",
+      "method": "",
+      "difficulty": "1",
+      "vegetarian": true,
+      "madeBefore": true,
+      "ingredientNumber": 4
+    },
+    {
+      "id": "a2af",
+      "name": "Fried Rice",
+      "type": "Breakfast",
+      "ingredients": "1/2 lb. beef, 1 small green pepper, 1 small can mushrooms or 1/2 can bamboo shoots, 1 Tbsp. soy sauce, 1 medium onion, 1 stalk celery, 2 carrots, 2 or 3 eggs, 1 garlic bud, salt, pepper and Accent to taste",
+      "method": "*insert method here*",
+      "difficulty": "3",
+      "vegetarian": false,
+      "madeBefore": false
+    },
+    {
+      "id": "f774",
+      "name": "Chinese Fried Rice",
+      "type": "Dessert",
+      "ingredients": "1 c. rice, 3 Tbsp. salad oil, 1/2 to 1 c. chopped ham, 1 fried egg, chopped, small green onion, soy sauce to taste (not too much), salt to taste",
+      "method": "*insert method here*",
+      "difficulty": "3",
+      "vegetarian": true,
+      "madeBefore": false
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "9fa7",
+      "ingredients": "For the rice, 3 cups water, 1 chicken bouillon cube, 3 small bay leaves, 1 tablespoon oriental sesame oil, salt, to taste, 1 1/2 cups converted rice, For the egg sheets, 2 large eggs, 2 egg whites, salt, to taste, 1 tablespoon oil, Putting it all together, 3 tablespoons vegetable oil, 4 garlic cloves, minced, 1 tablespoon gingerroot, minced, 1 onion, chopped, 1 green bell pepper, cut into 1-inch pieces, 2 carrots, thinly sliced, 1/2 lb shiitake mushroom, wiped clean, trimmed and sliced, salt (to taste), 4 stalks celery, thickly sliced, 3 cups coarsely chopped green cabbage, 1 tablespoon garam masala, 1/4 - 1/3 cup szechuan sauce (or to taste), 1 (8 ounce) can bamboo shoots, drained, 1 (8 ounce) can water chestnuts, drained, 1/2 cup water, 2 -3 teaspoons chili paste (or to taste), 2 -3 teaspoons oriental sesame oil (or to taste), 1/2 cup minced fresh cilantro (to taste)",
+      "name": "Pan-Asian Fried Rice (Padma Lakshmi)",
+      "similarity_score": 0.7234266543342799,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "ada0",
+      "ingredients": "1/2 lb. beef, 1 small green pepper, 1 small can mushrooms or 1/2 can bamboo shoots, 1 Tbsp. soy sauce, 1 medium onion, 1 stalk celery, 2 carrots, 2 or 3 eggs, 1 garlic bud, salt, pepper and Accent to taste",
+      "name": "Fried Rice",
+      "similarity_score": 0.7182508679573615,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "7e64",
+      "ingredients": "1 c. rice, 3 Tbsp. salad oil, 1/2 to 1 c. chopped ham, 1 fried egg, chopped, small green onion, soy sauce to taste (not too much), salt to taste",
+      "name": "Chinese Fried Rice",
+      "similarity_score": 0.7098385885345748,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "2e2e",
+      "ingredients": "1 as much (to taste) Firm tofu, 1 Cheese, 1 Nori seaweed, 1 Olive oil (another oil is fine), 1 Soy sauce",
+      "name": "Tofu Isobe-yaki",
+      "similarity_score": 0.6042103613290735,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "be50",
+      "ingredients": "15 ounce block extra-firm tofu, soy sauce, nutritional yeast, vegetable oil (sesame oil)",
+      "name": "Grit Tofu",
+      "similarity_score": 0.572156653632146,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "a5f1",
+      "ingredients": "1 block firm tofu, 1/4 cup soy sauce, 1/4 cup orange juice, 1/2 teaspoon toasted sesame oil, 5 tablespoons sesame seeds, 5 tablespoons cornstarch, Vegetable oil, for pan frying",
+      "name": "Sesame-Crusted Tofu",
+      "similarity_score": 0.5575787077484169,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "86bf",
+      "ingredients": "8 slices bread, 4 slices Cheddar cheese, 2 eggs, 1 c. milk, 1/2 tsp. salt, pinch of pepper, 1/4 tsp. dry mustard",
+      "name": "Cheese Puff Sandwiches",
+      "similarity_score": 0.7813129608994177,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "5793",
+      "ingredients": "4 slices bread, butter, 4 slices cheese",
+      "name": "Cheese Toast",
+      "similarity_score": 0.7730369639438986,
+      "method": "*insert method here*"
+    },
+    {
+      "id": "b2e4",
+      "ingredients": "5 or 6 slices stale bread, 2 Tbsp. butter, 1 c. grated cheese, 1 1/2 c. hot milk, 2 eggs, 1/2 tsp. salt",
+      "name": "Scalloped Cheese",
+      "similarity_score": 0.7598567366144273,
+      "method": "*insert method here*"
+    }
+  ]
+}
